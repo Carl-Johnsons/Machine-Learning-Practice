@@ -1,0 +1,7 @@
+# You need to access to the python virtual environment in order to run python notebook
+# .\venv\Scripts\activate.bat
+# pip install -r requirements.txt 
+tensorflow
+numpy
+matplotlib
+pandas
