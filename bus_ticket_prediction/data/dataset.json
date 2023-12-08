@@ -1,0 +1,142 @@
+[
+  {
+    "sentence": "Muốn đi sóc Trăng quá à",
+    "label": 60
+  },
+  {
+    "sentence": "Đà Nẵng có bãi biển đẹp, mình muốn ghé thăm.",
+    "label": 31
+  },
+  {
+    "sentence": "Tôi ở Hà Nội, nơi này có nhiều điểm du lịch lịch sử hay.",
+    "label": 0
+  },
+  {
+    "sentence": "Cuối tháng, mình lên Huế thăm người thân.",
+    "label": 101
+  },
+  {
+    "sentence": "Tôi đang ở Phan Thiết, có gì vui ở đây không?",
+    "label": 110
+  },
+  {
+    "sentence": "Buổi tối ở Vũng Tàu thì nên đi đâu chơi?",
+    "label": 125
+  },
+  {
+    "sentence": "Quảng Ninh có Hạ Long rất đẹp, bạn đã đi chưa?",
+    "label": 13
+  },
+  {
+    "sentence": "Cần Thơ có nhiều chợ nổi, muốn thăm quá.",
+    "label": 58
+  },
+  {
+    "sentence": "Dalat dễ thương quá, mình thích thăm lại lần nữa.",
+    "label": 115
+  },
+  {
+    "sentence": "Quy Nhơn có bãi biển Trung Lương đẹp lắm đó.",
+    "label": 105
+  },
+  {
+    "sentence": "Bạc Liêu có nhạc tình khúc Vọng Cổ, có đi nghe không?",
+    "label": 61
+  },
+  {
+    "sentence": "Mình sắp đến Cà Mau, nơi này có đồ ăn ngon không?",
+    "label": 62
+  },
+  {
+    "sentence": "Buôn Ma Thuột có cà phê ngon, mình muốn thử.",
+    "label": 113
+  },
+  {
+    "sentence": "Vinh nổi tiếng với cá kho làng Nghệ, bạn biết chưa?",
+    "label": 53
+  },
+  {
+    "sentence": "Mình ở Bắc Giang, có điểm du lịch gì độc đáo không?",
+    "label": 14
+  },
+  {
+    "sentence": "Tây Ninh có đền Cao Đài, bạn đã ghé thăm chưa?",
+    "label": 45
+  },
+  {
+    "sentence": "Hồ Chí Minh có nhiều địa điểm mua sắm, bạn muốn ghé không?",
+    "label": 49
+  },
+  {
+    "sentence": "Bà Rịa - Vũng Tàu có bãi Trước đẹp lắm, mình muốn ghé.",
+    "label": 48
+  },
+  {
+    "sentence": "Mình thích đi chơi ở Đồng Nai, có gì hot không nhỉ?",
+    "label": 47
+  },
+  {
+    "sentence": "Lễ hội đèn đỏ ở Chợ Lớn Hồ Chí Minh rất đẹp, bạn đã tham gia chưa?",
+    "label": 49
+  },
+  {
+    "sentence": "Cần Thơ có nhiều điểm ẩm thực ngon, bạn biết chưa?",
+    "label": 58
+  },
+  {
+    "sentence": "Buổi tối ở Đà Nẵng thì nên ghé quán nào để cảm nhận không khí?",
+    "label": 31
+  },
+  {
+    "sentence": "Phong cảnh ở Ninh Bình thơ mộng, mình muốn đến đây ngắm cảnh.",
+    "label": 24
+  },
+  {
+    "sentence": "Vũng Tàu có bãi Truốc đẹp lắm, mình đi thường xuyên.",
+    "label": 125
+  },
+  {
+    "sentence": "Mình thấy Đà Lạt có thời tiết se lạnh, có đúng không?",
+    "label": 115
+  },
+  {
+    "sentence": "Ở Hội An có nhiều cửa hàng độc đáo, bạn đã mua đồ ở đó chưa?",
+    "label": 103
+  },
+  {
+    "sentence": "Mình ở Hà Nội, có nơi nào là địa điểm check-in nổi tiếng không?",
+    "label": 0
+  },
+  {
+    "sentence": "Sông Hậu ở Cần Thơ cảm giác yên bình quá, bạn đã thăm chưa?",
+    "label": 58
+  },
+  {
+    "sentence": "Tại Bạc Liêu, có nhiều sự kiện văn hóa độc đáo, bạn muốn tham gia không?",
+    "label": 61
+  },
+  {
+    "sentence": "Mình thích hải sản ở Quy Nhơn, có quán nào ngon mà giới thiệu không?",
+    "label": 105
+  },
+  {
+    "sentence": "Đồi Chè Cầu Đất ở Dalat là điểm đến lý tưởng, bạn đã ghé chưa?",
+    "label": 115
+  },
+  {
+    "sentence": "Buôn Ma Thuột có nhiều điểm du lịch độc đáo, bạn đã khám phá chưa?",
+    "label": 113
+  },
+  {
+    "sentence": "Mình đang ở Cà Mau, có món ăn nào ngon không nên bỏ qua?",
+    "label": 62
+  },
+  {
+    "sentence": "Cửa Lò ở Nghệ An có bãi biển đẹp, bạn đã đến chưa?",
+    "label": 26
+  },
+  {
+    "sentence": "Mùa lễ hội ở Hà Nội, bạn thích tham gia lễ hội nào nhất?",
+    "label": 0
+  }
+]

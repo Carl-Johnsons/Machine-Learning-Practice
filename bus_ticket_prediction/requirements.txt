@@ -7,3 +7,6 @@ matplotlib
 pandas
 ipython 
 ipykernel
+# custom
+vietnam-provinces
+fuzzywuzzy
