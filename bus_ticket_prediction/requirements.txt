@@ -5,3 +5,5 @@ tensorflow
 numpy
 matplotlib
 pandas
+ipython 
+ipykernel
