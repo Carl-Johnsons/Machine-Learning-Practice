@@ -1,2 +1,7 @@
 **/venv
 **/.ipynb_checkpoints
+
+# Model
+**/nn_model.json
+**/nn_weight.h5
+**/nn.h5
